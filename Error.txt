@@ -1,0 +1,8 @@
+
+- 'react-scripts' is not recognized as an internal or external command
+	Khi cai dat redux vo tinh bi xoa cac moduls  
+	=> -npm install react-dom react-scripts --save
+
+- 'toLowerCase' is not a func 
+	Phan lowercase co cai undefined => k lower dc
+	=> check lai undefined

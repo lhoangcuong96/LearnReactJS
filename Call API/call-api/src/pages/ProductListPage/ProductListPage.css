@@ -1,0 +1,18 @@
+
+.veritcal-menu > a{
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding:12px;
+    /* padding bot and top = nhau => ở giữa */
+    text-align: center;
+    background-color: #4caf501a;
+
+}
+.veritcal-menu >a.active{
+    background-color: #4caf50;
+    color: white;
+}
+.veritcal-menu :hover{
+    background-color: #c9e6c9ed;
+}
